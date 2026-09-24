@@ -1,3 +1,0 @@
-Filesystem created:        Thu Jan  1 08:00:00 1970
-Filesystem UUID:           6eb1eab6-463a-5096-9756-20fe23aae731
-mkfs.erofs options:        -zlz4hc -T 0 -U 6eb1eab6-463a-5096-9756-20fe23aae731 --mount-point=/vendor --fs-config-file=/home/asus/qcrb_v-1.2/FW/config/vendor_fs_config --file-contexts=/home/asus/qcrb_v-1.2/FW/config/vendor_file_contexts vendor_repack.img /home/asus/qcrb_v-1.2/FW/vendor
